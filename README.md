@@ -34,6 +34,11 @@
 * Add Update Form
 * Add Method-Override
 
-# DESTORYYYYYY
+# DESTROYYYYYY
 * Add Destroy Route
 * Add Edit and Destroy links
+
+## Final Updates
+* Sanitize blog body
+* Style Index
+* Update REST Table
